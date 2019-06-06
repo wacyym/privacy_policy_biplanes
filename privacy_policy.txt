@@ -1,0 +1,43 @@
+Privacy Policy
+
+1. Okkama Games built the Wi-Fi Biplanes app as a Free app. This SERVICE is provided by Okkama Games at no cost and is intended for use as is.
+
+2. This app may use Google Play Services
+Google Play Services offers APIs and security services to the Android developer ecosystem.
+Google acts as a data controller for any personal data processed in Google Play Services,
+and offers user notices and consents about the use of personal data in the service’s user
+interface in Android.
+
+Collected informations:
+* Device information
+* Log information
+* Location information
+* Unique application numbers
+* Local storage
+* Cookies and similar technologies
+
+Google use the collected information to provide, maintain, protect and improve Google's
+services, to develop new ones, and to protect Google and the users. Google also use this
+information to offer you tailored content – like giving you more relevant search results
+and ads.
+
+Online resources:
+* Google Terms of Service      https://policies.google.com/terms
+* Google Privacy Policy        https://policies.google.com/privacy
+
+3. Distribution
+The only official channel for distribution of this app are:
+* Google Play Store                https://play.google.com/
+
+Any other mode of distribution is not official and thus, is not maintained by the developer.
+This privacy policy is effective to distribution made on official channel only.
+
+
+4. Changes to This Privacy Policy
+This policy may be updated from time to time.
+
+
+5. Contact me
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to
+contact me.
+Okkama.games(at)gmail(dot)com
